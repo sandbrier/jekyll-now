@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
