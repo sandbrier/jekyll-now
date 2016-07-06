@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 ## About Me:
 Since this is an alias there isn't much of a bio.
 
@@ -35,4 +38,20 @@ I have verified my accounts via [keybase.io/sandbrier](https://keybase.io/sandbr
 
 If you are new to GPG may I suggest you create a [ProtonMail](https://protonmail.com/) account and email me there sandbrier@protonmail.com
 
-*Note: Signature Verification of this text only works if you use the [raw](https://raw.githubusercontent.com/sandbrier/solid-umbrella/master/contact.md) text.*
+*Note: Signature Verification of this text only works if you use the [raw text](https://github.com/sandbrier/sandbrier.github.com/raw/master/contact.md).*
+-----BEGIN PGP SIGNATURE-----
+
+iQIcBAEBCgAGBQJXfK0fAAoJEDlmqr3k5JdDzXIP/R9gFGwvMrSJY1xnrtObOjLR
+q2O119MXFCaa2i1NYACkbTmBRSww15TiiUSyhaC/GkDXYs9BOWhZ2QzaZVjO0TPN
+2IF++OjXJwunOFFbm5Rkt8PoOYDyDfwQB5MdnV/KKT6nyP9UuF1boG816hd7xm0b
+iOgCJnVqR2v90lV1mFnYAI/dkctNkdmtWcJnOmQjYaWkvO8OOvDzzj7DzaIKfouI
+sT01nqafTV5Ij44yRh3jgk0Y3iE/QN2Y5z80ua2O5bPYB6geg+5C9JnqGQCZ8Py9
++CJLuPblh5gMJTHDDXiMwydLcVx6m1Bdha5I0FwcCkZV17JlOO43O/U4c22Az7Wa
+kyR4MjuEgJDVwInr82EA2uRMHdPOPxoptE7nP5NXlOxT8YrnPNPXK1GfHOrhwjlp
++/dzwutCfKfFLEkN765oQeY2jRTktQvdjvlGtBDPMb0/8eRN/ZkXCPRsWvOl8LIj
+1TElvYsg8ZUkrXuRNp8/xzvqRVaE928TkG+9pjAg9Wqy2zSyO7u3/UaxtkPawaTy
+et03SJTlEW/jr9+sQdAdUNfkKhDu7rp8HezJ9GU7rsKlbEv+zwcU8WWAletzR960
+55lL1dw/aGGaeJ+p2SHDxYwnopTgsT1ZNd0/QC1ydHSgvwKsYxkPxv+HT5yHcBaE
+GVGP9spCydCMld7AObgm
+=1LWl
+-----END PGP SIGNATURE-----
