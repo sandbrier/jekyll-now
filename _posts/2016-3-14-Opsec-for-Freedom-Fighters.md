@@ -8,3 +8,4 @@ tag: video
 alt="OpSec for Freedom Fighters Video Link" width="240" height="180" border="10" /></a>
 
 Direct Link: https://www.youtube.com/watch?v=9XaYdCdwiWU
+[https://www.youtube.com/watch?v=9XaYdCdwiWU](https://www.youtube.com/watch?v=9XaYdCdwiWU)
