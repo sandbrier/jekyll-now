@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dispatch 002
+title: OpSec for Freedom Fighters
 tag: video
 ---
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9XaYdCdwiWU
