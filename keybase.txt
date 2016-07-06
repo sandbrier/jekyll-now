@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/sandbrier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sandbrier.github.io
+  * I am sandbrier (https://keybase.io/sandbrier) on keybase.
+  * I have a public key with fingerprint 3AC9 97AF 897E E5F2 ABF7  2644 F962 DCC5 0EFD 680E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101b003054a65ea3685e2d2d1800856c2a8acedb1dcc012e0f9e232c038086bc4ce0a",
+            "fingerprint": "3ac997af897ee5f2abf72644f962dcc50efd680e",
+            "host": "keybase.io",
+            "key_id": "f962dcc50efd680e",
+            "kid": "0101b003054a65ea3685e2d2d1800856c2a8acedb1dcc012e0f9e232c038086bc4ce0a",
+            "uid": "343b0c1e1da8d0f1a6c2c5fc8b29a719",
+            "username": "sandbrier"
+        },
+        "service": {
+            "hostname": "sandbrier.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1467789194,
+    "expire_in": 157680000,
+    "prev": "82c1331352fb7de348fb46976263cadc800b68b88f04a84756071f702aecb423",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNCAnicrZJ7TJVlHMcPxCWwU9hRNAnS1zLEI733CwmIYKaTiZQ3EI/P+7zPy3mD
+c/Gcwy1gChabwLg0HShBrAQnkqAl0tIJTraSiQPLzlYMaAikQ3DKHLfR+1L90/qz
+559nz2/f3+f5fn/73dK/oPP3EOSm68PDVbEe3Z31Gbp9eS3FuZhok3KwiFwsDS1e
+KF1CTpcpTZGwCAwncELEcQpnaMAyCFAszyBSIiWCx3GeYSEJeACRJBIShDhBIlwW
+EEmREKd4nGdFSEOEA8yIyYo1FTnsDsXqUrEUgILAAZkXOIQYmQSizJEsTcsCS6og
+BkeyxPI4UhvNNqfWoZoTgROFKza1pj5Mi/b+Q/8/+85YxFE0JeKQQIQEeAmXCaAC
+ICNDXiQFwBGCJnQihxVYkKp2AqskOhTkwPKNmFrOVCDSJqtF+bckPFVxmTPEv3LZ
+HTaXDdrSVYHZ5bI7IzSAK8eudWQh0fQ3yyQqVkmdp9qRiRxOxWbFIghVCV2KBido
+luN4gRBoI4ay7YoDmRRNwXDqiNSj/YMyVSRPQoKiCIohZZGTEEXzskizAseSLAWB
+BFW1yPIiz8s4DXiaY1icI2QOJwGCIk1SmJbuiNWmslnVJ0jVgimpVuDKcCAs/2bn
+QS+dh7/Ox9tTWzSdv1/AP+uX2B+g+/yuHW5eaX2N/ubBkotf9iefaYMx9RuSitr9
+SopOWX70eTD0tDAXFf+UN37xxPk5Lmh8rfPq7r7bkb7FOnbK5g4Y+1W/t5cOfXTt
+wvE/znW0nk3awVzqizqw773rydFj230M5QMbvU+llIyu6ElKqT3Uti1rIG6nZdPI
+h3FbJitvHkuYXjB/5KP7pRX0N34vBvV2pJn8D5/peo5cJXVzoZPjXyfeGw45dtSt
+s+3PToifUipmUWd0csTpJ1VLDkWVj8av2/rsN7Rh7WBabJly+Ml8fcXD+lzfdSf3
+73q5ZcvAppyy0PlZttEQGxl0Z7nh/a+iqhL199g75qcmN/l4BjzP+NQLTbRc/ST7
+gxtyy8wPlRPvHinbXvD7zmvlRaZqemXm1oO9fj1XbnfZR+jZbIPvXsNYgGVZXUDT
+gdK789Zn+oFHGwuUhYqlnvburKW1wYEfh8wMGfvmpoa//SI4KaXr1abBWkP+6OV4
+7+m6gkJp91BN6vqRnvX324PNJ9ITXh8JOdqdR9afvzKRXvbKrT0egWFwJneyurd0
+Na9v8Cycr+ltClvxszvU4lv90kJ7eFyk/+bsSyMlNas61rTFyMsm9O1N9xvwwNaG
+C6seT7/pbvU6pwz2lwYx4tmyhBff6Htnzw5jXLMl9sbgyYfxbzeGRPvseiuEb/lu
+airsckzlZ6vR8jWNzc0T8E8ToMWV
+=Nrlq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sandbrier
+
+==================================================================
